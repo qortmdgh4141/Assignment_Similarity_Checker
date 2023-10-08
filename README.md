@@ -2,13 +2,15 @@
 <br/>  
    
 ### 1. &nbsp; Teaching Assistant Responsibilities at CSI Lab <br/>
-- _This program is used for CSI Lab's Teaching Assistant duties._ <br/> <br/> <br/>
+- _This program is used for CSI Lab's Teaching Assistant duties._  <br/> 
+- _It's designed to analyze the plagiarism status of assignments submitted by students taking the Fundamentals of Data Analysis course._  <br/> 
+- _Plagiarism is determined based on the similarity values of the code submitted by students._  <br/> 
 
-### 2. &nbsp; Plagiarism Analysis for Fundamentals of Data Analysis <br/>
-- _It's designed to analyze the plagiarism status of assignments submitted by students taking the Fundamentals of Data Analysis course._ <br/> <br/> <br/> 
+### 2. &nbsp; Code Similarity Graph Example <br/>
+- _Here's an example graph illustrating code similarity._ <br/>
+- _You can see how the program visually represents the similarity values of student-submitted code._ <br/> <br/> 
 
-### 3. &nbsp; Using Code Similarity for Plagiarism Detection <br/> 
-- _Plagiarism is determined based on the similarity values of the code submitted by students._  <br/> <br/> <br/>
+ <img src="https://github.com/qortmdgh4141/Assignment_Similarity_Checker/blob/master/graph/Merge_Figure.png?raw=true"  width="1280"> <br/> <br/> <br/>
 
 --------------------------
 ### 💻 S/W Development Environment
