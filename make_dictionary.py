@@ -1,6 +1,7 @@
 import pickle
 import pandas as pd
 
+# 데이터 불러오기
 file_path = f'raw_data/similarity_data_Assignment+1+(Question-1).csv'
 df = pd.read_csv(file_path)
 quiz_name = df.at[0, 'Quiz name']
@@ -17,6 +18,7 @@ for i in range(len(df)):
     tuple_ab = tuple(sorted([a_name, b_name])) # A 학생과 B 학생의 값을 가져와서 정렬한 후, 튜플로 변환
     result_dict[tuple_ab] = similarity_value # 튜플을 딕셔너리의 key로 사용하고, 유사도 값을 딕셔너리의 value로 설정
 
+# 딕셔너리 저장
 save_dic = False
 if save_dic == True:
     dic_file_path = f"{quiz_name}.pkl"
