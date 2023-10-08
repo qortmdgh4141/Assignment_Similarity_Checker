@@ -8,9 +8,8 @@
 - _It's designed to analyze the plagiarism status of assignments submitted by students taking the Fundamentals of Data Analysis course._ <br/> <br/> <br/> 
 
 ### 3. &nbsp; Using Code Similarity for Plagiarism Detection <br/> 
-- _Plagiarism is determined based on the similarity values of the code submitted by students._ <br/> <br/> 
+- _Plagiarism is determined based on the similarity values of the code submitted by students._  <br/> <br/> <br/>
 
-Plagiarism is determined based on the similarity values of the code submitted by students.
 --------------------------
 ### 💻 S/W Development Environment
 <p>
